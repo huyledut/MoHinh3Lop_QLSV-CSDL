@@ -1,0 +1,11 @@
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV-3LAYER.csprojAssemblyReference.cache
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV_3LAYER.GUI.Form1.resources
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV_3LAYER.GUI.Form2.resources
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV_3LAYER.Properties.Resources.resources
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV-3LAYER.csproj.GenerateResource.cache
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV-3LAYER.csproj.CoreCompileInputs.cache
+D:\C#\QLSV-3LAYER\bin\Debug\QLSV-3LAYER.exe.config
+D:\C#\QLSV-3LAYER\bin\Debug\QLSV-3LAYER.exe
+D:\C#\QLSV-3LAYER\bin\Debug\QLSV-3LAYER.pdb
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV-3LAYER.exe
+D:\C#\QLSV-3LAYER\obj\Debug\QLSV-3LAYER.pdb
